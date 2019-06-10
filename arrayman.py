@@ -4,7 +4,6 @@ import random
 import re
 import sys
 
-# Complete the arrayManipulation function below.
 
 n, m = map(int, raw_input().split())
 v = [0] * (n + 1)
