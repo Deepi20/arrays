@@ -4,7 +4,6 @@ import random
 import re
 import sys
 
-# Complete the hourglassSum function below.
 def hourglassSum(arr):
     maxVal=-9999
     for i in range(0,4):
